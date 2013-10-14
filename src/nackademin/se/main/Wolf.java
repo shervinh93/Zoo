@@ -30,3 +30,4 @@ public class Wolf extends Animal {
 	
 	
 }
+//SH
